@@ -19,7 +19,7 @@ export default function page() {
         </div>
       </div>
       <div>
-        <Image src="svg/illustration.svg" alt="hero" width={500} height={500} />
+        <Image src="/gambar2.png" alt="hero" width={500} height={500} />
       </div>
       
     </div>
