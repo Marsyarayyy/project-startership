@@ -4,7 +4,7 @@ import Button from './component/Button';
 import BtnOut from './component/BtnOut';
 
 
-// import BtnOut from './component/BtnOut';
+  
 
 
 export default function page() {
@@ -19,7 +19,7 @@ export default function page() {
         </div>
       </div>
       <div>
-        <Image src="svg/illustration.svg" alt="hero" width={500} height={500} />
+        <Image src="svg/Illustration.svg" alt="hero" width={500} height={500} />
       </div>
       
     </div>
